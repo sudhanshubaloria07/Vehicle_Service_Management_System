@@ -1,0 +1,21 @@
+# Compiled class files
+bin/
+out/
+target/
+*.class
+
+# IDE and Editor configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary outputs
+Invoice_*.txt
+*.log
